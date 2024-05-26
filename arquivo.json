@@ -1,4 +1,12 @@
 [
-  { "par": "GBPUSD", "horario": "14:20", "tipo": "PUT" },
-  { "par": "GBPUSD", "horario": "14:20", "tipo": "CALL" }
+  {
+    "par": "USDJPY",
+    "horario": "13:30",
+    "tipo": "CALL"
+  },
+  {
+    "par": "EURUSD",
+    "horario": "14:55",
+    "tipo": "CALL"
+  }
 ]
