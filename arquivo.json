@@ -1,3 +1,4 @@
-{
-    "mensagem": "WIN WIN ola LOSS"
-}
+[
+  { "par": "GBPUSD", "horario": "14:20", "tipo": "PUT" },
+  { "par": "GBPUSD", "horario": "14:20", "tipo": "CALL" }
+]
